@@ -1,4 +1,4 @@
-### Allen (he/him) // 19 // America_California 
+### Allen (he/him) // 19 // San Jose State University
 <!--
 **allen-tran/allen-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
