@@ -1,4 +1,6 @@
 ### Allen (he/him) // 19 // San Jose State University
+
+🏃 i love to go on long runs :)
 <!--
 **allen-tran/allen-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
