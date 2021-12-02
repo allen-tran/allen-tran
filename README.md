@@ -1,4 +1,4 @@
-### Allen (he/him) // 19 // San Jose State University
+### Allen (he/him) // 20 // San Jose State University
 
 🏃 i love to go on long runs :)
 <!--
