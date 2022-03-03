@@ -1,6 +1,17 @@
-### Allen (he/him) // 20 // San Jose State University
+## ✧˖*°࿐ Allen Tran (he/him) ✧˖*°࿐ 
+### Who Am I?
+- 👨🏻‍💻  CS Student at San Jose State University 
+- 🤹🏼‍♂️  Software Engineer Intern at Cadent 
+- 📍  Silicon Valley 
 
-🏃 i love to go on long runs :)
+### What are my Hobbies?
+- 🏃 I love to go on long runs
+- 🥬 I love eating great vegetarian food
+- 👕 I'm into fashion and taking pictures
+- 🎶 I create tech videos on TikTok
+
+### What Am I Working On?
+- 📱 I'm learning Swift!
 <!--
 **allen-tran/allen-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
