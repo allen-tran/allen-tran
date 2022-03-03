@@ -1,13 +1,12 @@
 ## ✧˖*°࿐ Allen Tran (he/him) ✧˖*°࿐ 
 ### Who Am I?
-- 👨🏻‍💻  CS Student at San Jose State University 
-- 🤹🏼‍♂️  Software Engineer Intern at Cadent 
+- 👨🏻‍💻  CS Student at [San Jose State University](https://www.sjsu.edu/)
+- 🤹🏼‍♂️  Software Engineer Intern at [Cadent](https://cadent.tv/)
 - 📍  Silicon Valley 
 
 ### What are my Hobbies?
 - 🏃 I love to go on long runs
 - 🥬 I love eating great vegetarian food
-- 👕 I'm into fashion and taking pictures
 - 🎶 I create tech videos on TikTok
 
 ### What Am I Working On?
