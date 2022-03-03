@@ -2,7 +2,7 @@
 ### Who Am I?
 - 👨🏻‍💻  CS Student at [San Jose State University](https://www.sjsu.edu/)
 - 🤹🏼‍♂️  Software Engineer Intern at [Cadent](https://cadent.tv/)
-- 📍  Silicon Valley 
+- 📍 Silicon Valley 
 
 ### What are my Hobbies?
 - 🏃 I love to go on long runs
