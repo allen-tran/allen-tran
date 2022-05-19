@@ -1,7 +1,7 @@
 ## ✧˖*°࿐ Allen Tran (he/him) ✧˖*°࿐ 
 ### Who Am I?
 - 👨🏻‍💻 CS Student at [San Jose State University](https://www.sjsu.edu/)
-- 🤹🏼‍♂️ Software Engineer Intern at [Cadent](https://cadent.tv/)
+- 🤹🏼‍♂️ Software Engineer Intern at [Capital One](https://www.capitalone.com/)
 - 📍 Silicon Valley 
 
 ### What are my Hobbies?
