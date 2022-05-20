@@ -10,7 +10,7 @@
 - 🎶 I create tech videos on TikTok
 
 ### What Am I Working On?
-- 📱 I'm learning Swift
+- 📱 I'm learning C++ (again)
 - 📝 Writing tech/productivity articles on [Medium](https://medium.com/)
 <!--
 **allen-tran/allen-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
