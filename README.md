@@ -1,16 +1,18 @@
 ## ✧˖*°࿐ Allen Tran (he/him) ✧˖*°࿐ 
-### Who Am I?
-- 👨🏻‍💻 CS Student at [San Jose State University](https://www.sjsu.edu/)
-- 🤹🏼‍♂️ Software Engineer Intern at [Capital One](https://www.capitalone.com/)
-- 📍 Silicon Valley 
+<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/63386979/170582780-7304afd4-58da-42e6-953e-c259674f093e.png">
 
-### What are my Hobbies?
-- 🏃 I love to go on long runs
-- 🥬 I love eating great vegetarian food
+- 👨🏻‍💻 Heavily interested in fullstack and infra
+- 🏫 Bachelors in Computer Science at [San Jose State University](https://www.sjsu.edu/)
+- 🤹🏼‍♂️ Software Engineer Intern at [Capital One](https://www.capitalone.com/)
+- 📍 Silicon Valley born & raised
+
+### What are my hobbies?
+- 🏃 I love long distance running
+- 🥬 I run 3+ YouTube channels
 - 🎶 I create tech videos on TikTok
 
-### What Am I Working On?
-- 📱 I'm learning C++ (again)
+### What am I working on?
+- 📱 I'm learning C++ (again) and Go
 - 📝 Writing tech/productivity articles on [Medium](https://medium.com/)
 <!--
 **allen-tran/allen-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
