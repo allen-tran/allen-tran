@@ -8,7 +8,7 @@
 
 ### What are my hobbies?
 - 🏃 I love long distance running
-- 🥬 I run 3+ YouTube channels
+- ▶️ I run 3+ YouTube channels on random stuff
 - 🎶 I create tech videos on TikTok
 
 ### What am I working on?
