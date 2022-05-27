@@ -1,5 +1,5 @@
 ## ✧˖*°࿐ Allen Tran (he/him) ✧˖*°࿐ 
-<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/63386979/170582780-7304afd4-58da-42e6-953e-c259674f093e.png">
+![233050_1349828](https://user-images.githubusercontent.com/63386979/170636410-12bef17a-ca4c-494b-8efa-5856f8fb9ee9.gif)
 
 - 👨🏻‍💻 Heavily interested in fullstack and infra
 - 🏫 Bachelors in Computer Science at [San Jose State University](https://www.sjsu.edu/)
