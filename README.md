@@ -10,6 +10,8 @@
 - 🏃 I love long distance running
 - ▶️ I run 3+ YouTube channels on random stuff
 - 🎶 I create tech videos on TikTok
+- 🎸 I love listening to music, here are some of my favorite artists right now:
+  - [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565?si=6LEqvRnNT1KxS52sdG3vMg), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD?si=eDdipAygSJeYlNJFc4O3ZA), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk?si=rifCgE7_Rnme4GYFFN3LlQ), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz?si=1x51co9DRfiywIOLKB5Hxw), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag?si=zuB8jA-9QhmqSAzV91b8KA)
 
 ### What am I working on?
 - 📱 I'm learning C++ (again) and Go
