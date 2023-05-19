@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 Heavily interested in fullstack and infra
 - 🏫 Bachelors in Computer Science at [San Jose State University](https://www.sjsu.edu/)
-- 🤹🏼‍♂️ Software Engineer Intern at [Toast, Inc](https://pos.toasttab.com/)
+- 🤹🏼‍♂️ Software Engineer at Capital One
 - 📍 Silicon Valley born & raised
 
 ### What are my hobbies?
