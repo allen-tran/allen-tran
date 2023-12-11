@@ -11,7 +11,7 @@
 - ▶️ I run 3+ YouTube channels on random stuff
 - 🎶 I create tech videos on TikTok
 - 🎸 I love listening to music, here are some of my favorite artists right now:
-  - [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD?si=SezIRcHnR1W1jY1QEfczzQ), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ?si=YtHe2Vb5SLmFDEwl23sJ2w), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz?si=1x51co9DRfiywIOLKB5Hxw),and [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag?si=zuB8jA-9QhmqSAzV91b8KA)
+  - [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD?si=SezIRcHnR1W1jY1QEfczzQ), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ?si=YtHe2Vb5SLmFDEwl23sJ2w), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz?si=1x51co9DRfiywIOLKB5Hxw), and [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag?si=zuB8jA-9QhmqSAzV91b8KA)
 
 <!--
 **allen-tran/allen-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
